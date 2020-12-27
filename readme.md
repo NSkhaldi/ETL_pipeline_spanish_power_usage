@@ -10,12 +10,12 @@ eléctrica peninsular) , transformation via pandas and loading to an sql databas
 
 ## Files
 The repo contains:
-* 4 folders 
+*  folders 
     *  Data: contains the data source
     *  Scripts: optimization and etl python scripts
     *  Output: contains the Anas_etl.csv file
     *  Screeshots: some screenshots 
-* 4 files
+*  files
    *   README.md
    *   2 Jupyter notebook files describing the step by step programming
 
