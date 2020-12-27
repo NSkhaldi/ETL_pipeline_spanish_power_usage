@@ -1,9 +1,10 @@
 # What's inside? 
 
 *   An ETL pipeline  using ESIOS data.(documentation: https://api.esios.ree.es/).
-        * Extraction of the hourly power demand forecast of the Spanish power market (Previsión diaria de la demanda
+
+    * Extraction of the hourly power demand forecast of the Spanish power market (Previsión diaria de la demanda
 eléctrica peninsular) , transformation via pandas and loading to an sql database    
-        * The data is accessed via the public API of ESIOS (documentation: https://api.esios.ree.es/).
+    * The data is accessed via the public API of ESIOS (documentation: https://api.esios.ree.es/).
 
 *   Time & memory optimization of functions dataframe loadinng
 
