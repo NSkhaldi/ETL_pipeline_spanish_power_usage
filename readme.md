@@ -6,7 +6,7 @@
 eléctrica peninsular) , transformation via pandas and loading to an sql database    
     * The data is accessed via the public API of ESIOS (documentation: https://api.esios.ree.es/).
 
-*   Time & memory optimization of functions dataframe loadinng
+*   Time & memory optimization of functions & dataframe loading
 
 ## Files
 The repo contains:
