@@ -13,7 +13,7 @@ The repo contains:
 *  folders 
     *  Data: contains the data source
     *  Scripts: optimization and etl python scripts
-    *  Output: contains the Anas_etl.csv file
+    *  Output: output files
     *  Screeshots: some screenshots 
 *  files
    *   README.md
